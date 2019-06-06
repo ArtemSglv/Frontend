@@ -1,4 +1,4 @@
-# Frontend [![Build Status](https://travis-ci.org/NCEC20182019/Frontend.svg?branch=master)](https://travis-ci.org/NCEC20182019/Frontend)
+# Frontend [![Build Status](https://travis-ci.org/ArtemSglv/Frontend.svg?branch=master)](https://travis-ci.org/ArtemSglv/Frontend)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.7.
 
